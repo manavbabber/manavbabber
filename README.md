@@ -5,7 +5,7 @@
 - 🌱 Working on cool Next.js projects and learning 3D website development.
 - 👯 I'm looking to collaborate on **any projects as per my skillset**
 - 👨‍💻 All of my projects are available at [https://github.com/manavbabber](https://github.com/manavbabber)
-- 💬 Ask me about **React.js, Next.js and Smart contract integration**
+- 💬 Ask me about **Next.js**
 - 📫 Reach me at **manavbazfilka@gmail.com**
 
 ### 👦Stats:
@@ -13,9 +13,6 @@
 
 ![profile visit](https://komarev.com/ghpvc/?username=manavbabber) ![Repos Badge](https://badges.pufler.dev/repos/manavbabber)
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=manavbabber&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavbabber&layout=compact&theme=buefy" alt="languages" height="165">
-</p>
 </div>
 
 ### 🏆 Github trophies
